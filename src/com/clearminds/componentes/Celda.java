@@ -8,7 +8,6 @@ public class Celda {
 
 	// Constructor que recibe un parametro
 	public Celda(String codigo) {
-		super();
 		this.codigo = codigo;
 	}
 

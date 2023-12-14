@@ -8,7 +8,6 @@ public class Producto {
 
 	// Constructor
 	public Producto(String codigo, String nombre, double precio) {
-		super();
 		this.codigo = codigo;
 		this.nombre = nombre;
 		this.precio = precio;
